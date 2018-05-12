@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/314
     wikipedia: http://en.wikipedia.org/wiki/Fyodor_Dostoevsky
 description: 'Translation of: Белые ночи'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27319#Valkoisia--it-
 gutenberg_issued: '2008-11-24'
 gutenberg_type: Text
 identifiers:
